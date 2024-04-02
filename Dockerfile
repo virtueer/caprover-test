@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ARG varriablle=varrrzzz
+# ARG varriablle=varrrzzz
 
 RUN echo 111 >> varzz
 RUN echo $varriablle >> /varzz
